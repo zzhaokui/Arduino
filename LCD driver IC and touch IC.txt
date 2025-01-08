@@ -1,0 +1,17 @@
+LCD driver IC (Color), almost all from Taiwan
+
+Sitronix
+Himax
+Ilitek
+Novatek
+Focaltech
+GalaxyCore
+NEW VISION
+Fitipower
+Raydium	
+
+
+Touch control IC
+Synaptics
+Goodix
+Focaltech 
